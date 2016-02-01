@@ -1,0 +1,28 @@
+name: Gadgetgrlz
+favicon: null
+layout_spectrum: 0.4276209573727101
+typography_spectrum: 0.007510604802519083
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.30057555390521884
+  lightness: 0.2743460671044886
+  saturation: 0.05784641555510461
+  rhythmicContrast: 0.09771921881474555
+purpose: []
